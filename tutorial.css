@@ -127,14 +127,14 @@ section::after {
     clear: both;
 }
 
+p.mal {
+    font-size: 35px;
+}
+
 /* footer */
 .ft {
     padding: 15px;
     text-align: right;
     background-color: #e0e963;
     font-weight: bold;
-}
-
-p.mal {
-    font-size: 35px;
 }
